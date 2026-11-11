@@ -1,5 +1,6 @@
 class Hello{
-public stastic void main (String srgs[]){
-System.out.print("hello word);
+  public Static void main (String args[]){
+  System.out.print("hello world");
+  System.out.print("learning distributed version");
 }
 }
